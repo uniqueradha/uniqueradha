@@ -29,12 +29,14 @@
     <img src="https://skillicons.dev/icons?i=bash" height="50" />
   </a>
 </p>
----
+
+--- 
+
 # Social Media 
- ## 🌐 Connect With Me
+
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/ uniqeradha" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 
@@ -42,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
-  <a href="https://www.instagram.com/yourusername/" target="_blank">
+  <a href="https://www.instagram.com/unique._.boy._.radha/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
 
