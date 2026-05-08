@@ -11,6 +11,11 @@
 
 --- 
 # skills 
-## [this is for linux image ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5Nhf_8RBkaQcXEuSBm7eKklllCY3amSd_w&s)
+### Linux
+### Git,Github
+### Shell Scripting
+---
+# Social Media 
+<img width="1280" height="720" alt="0_Qqqd7UsfFDPL7WXh" src="https://github.com/user-attachments/assets/b5a9362a-e12a-4e65-93dc-c6711373a121" />
 
 
