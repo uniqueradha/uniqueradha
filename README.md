@@ -34,28 +34,18 @@
 
 # Social Media 
 
+<h3 align="center">🌸 Connect With Me 🌸</h3>
 
-<p align="left">
-  <a href="https://github.com/ uniqeradha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+<p align="center">
+  <a href="https://github.com/uniqueradha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-
-  <a href="https://www.instagram.com/unique._.boy._.radha/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
-
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-  </a>
-
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/telegram-app.png" height="50" />
+  <a href="https://www.youtube.com/@RadhaKrishnan-er6fm" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"/>
   </a>
 </p>
+
 
 
 
