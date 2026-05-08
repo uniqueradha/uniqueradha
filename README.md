@@ -34,20 +34,16 @@
 
 # Social Media 
 
-## 🌐 Connect with Me
+<h3 align="center">🌸 Connect With Me 🌸</h3>
 
-<p align="left">
-<a href="https://github.com/uniqueradha" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://github.com/uniqueradha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
 
-<a href="https://www.youtube.com/@RadhaKrishnan-er6fm" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="youtube" height="30" width="40" />
-</a>
-
-<a href="https://discord.com/users/radhakrishnan0728" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discord" height="30" width="40" />
-</a>
+  <a href="https://www.youtube.com/@RadhaKrishnan-er6fm" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50"/>
+  </a>
 </p>
 
 
