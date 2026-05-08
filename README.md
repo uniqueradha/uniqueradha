@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 About Me
+## 💻 Passionate Linux & Shell Scripting   
+## 🌱 Currently learning Git, GitHub,& Bash  
+## 🚀 Interested in cloud and Open Source  
+## 🐧 Linux enthusiast who loves automation  
+## 📚 Improving coding skills every day  
+## ⚡ Future cloud Engineer
+## ⚡ Tech Explorer
+## ✍️ Tamil Kavitha Writer
+## 📚 Tamil Books & Novel Reader 
 
-<!--
-**uniqueradha/uniqueradha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
+# skills 
+## [this is for linux image ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5Nhf_8RBkaQcXEuSBm7eKklllCY3amSd_w&s)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
